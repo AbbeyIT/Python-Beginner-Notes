@@ -119,4 +119,5 @@ else:
     print("i is no longer less than 7")
 ```
 
+## Exercise
 You can view my [04Conditional.py](https://github.com/AbbeyIT/Python-Beginner-Notes/blob/main/Coding-Exercise/04Conditional.py) and [04Loops.py](https://github.com/AbbeyIT/Python-Beginner-Notes/blob/main/Coding-Exercise/04Loops.py) to see an example exercise for this topic.
