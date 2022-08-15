@@ -2,6 +2,7 @@
 
 ## If 
 for decision making operations. This creates a conditional statement and the code will only run if the condition is met
+
 Example:
 ```
 num = 10
@@ -11,6 +12,7 @@ if num = 10:
 
 ## Else
 this provides an alternative solution in case both the if and elif are false
+
 Example:
 ```
 x = 10
@@ -22,6 +24,7 @@ else:
 
 ## Elif
 this gives an alternative condition so that the code can have another chance to run. Used to create multiple conditional statements.
+
 Example:
 ```
 food_cost 
@@ -40,6 +43,7 @@ else:
 
 ## For 
 For Loops - repeats a sequence until the condition is satisfied. A sequence can be a list, tuple, dictionary set, or string.
+
 Example: 
 ```
 colors = ["green", "blue", "black", "yellow"]
@@ -51,6 +55,7 @@ for x in "string":
 ```
 
 **Continue Statement** - skips the value of the variable and procedes with the rest of the item in the list.
+
 Example:
 ```
 colors = ["green", "blue", "black", "yellow"]
@@ -61,6 +66,7 @@ for x in colors:
 ```
 
 **Break Statement** - if you want to stop the loop completely
+
 Example:
 ```
 colors = ["green", "blue", "black", "yellow"]
@@ -72,6 +78,7 @@ for x in colors:
 
 **Range Functions** -  this provides a sequence of numbers starting from 0 and ending at a number you specify. The code is then looped through that many 
 number of times
+
 Example:
 ```
 x = range(8) #by default range starts at 0
@@ -91,6 +98,7 @@ for x in colors:
 
 ## While Loop 
 **While Loop** - these are used to iterate statements until it becomes false
+
 Example:
 ```
 i = 1 
