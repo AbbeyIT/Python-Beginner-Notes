@@ -97,3 +97,6 @@ Example:
 ```
 print(list("programming")) ['p', 'r', 'o', 'g', 'r', 'a', 'm', 'm', 'i', 'n', 'g']
 ```
+
+## Coding Exercise
+You can view my [02Functions.py](https://github.com/AbbeyIT/Python-Beginner-Notes/blob/main/Coding-Exercise/02Functions.py) to see an example exercise for this topic.
