@@ -1,6 +1,7 @@
 # Conditional Statements
 
-## If - for decision making operations. This creates a conditional statement and the code will only run if the condition is met
+## If 
+for decision making operations. This creates a conditional statement and the code will only run if the condition is met
 Example:
 ```
 num = 10
@@ -8,7 +9,8 @@ if num = 10:
     print("Hi Python")
 ```
 
-## Else - this provides an alternative solution in case both the if and elif are false
+## Else
+this provides an alternative solution in case both the if and elif are false
 Example:
 ```
 x = 10
@@ -18,7 +20,8 @@ else:
     print("x is smaller than 10")
 ```
 
-## Elif - this gives an alternative condition so that the code can have another chance to run. Used to create multiple conditional statements.
+## Elif
+this gives an alternative condition so that the code can have another chance to run. Used to create multiple conditional statements.
 Example:
 ```
 food_cost 
