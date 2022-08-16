@@ -22,3 +22,8 @@ I created this exercise to assess my knowledge of the fundamentals.
 - [✔️] [Classes](Coding-Exercise/03.Classes.py)
 - [✔️] [Conditionals](Coding-Exercise/04Conditional.py)
 - [✔️] [Loops](Coding-Exercise/04Loops.py)
+- [✔️] [Computing Age](Coding-Exercise/05computing_age.py)
+- [✔️] [Math Game](Coding-Exercise/05math_game.py)
+- [✔️] [Odd or Even using If else Statement](Coding-Exercise/05odd_or_even.py)
+- [✔️] [Odd or Even using While Loop](Coding-Exercise/05odd_or_even_whileloop.py)
+- [✔️] [Summation Program](Coding-Exercise/05summation_program.py)
