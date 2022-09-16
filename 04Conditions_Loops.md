@@ -55,7 +55,7 @@ for x in "string":
     print(x) 
 ```
 
-**Continue Statement** - skips the value of the variable and procedes with the rest of the item in the list.
+**Continue Statement** - skips the value of the variable and proceedes with the rest of the item in the list.
 
 **Example:**
 ```
