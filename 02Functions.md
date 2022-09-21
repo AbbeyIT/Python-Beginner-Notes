@@ -1,5 +1,5 @@
 # Functions
-Functions - is a group of related statements that perform a specific task. They help break our program into smaller
+**Functions** - is a group of related statements that perform a specific task. They help break our program into smaller
 and modular chunks. That way, our code will be easier to organize.
 
 ## How do we create a functions? 
@@ -15,7 +15,7 @@ hello_function() #call the function
 ```
 
 ## Adding parameters 
-Parameter - is a piece of information the function needs to do its job. The information is contained within ()
+**Parameter** - is a piece of information the function needs to do its job. The information is contained within ()
 If your function does not get the argument it expects, running your code will lead to an error.
 def hello_function(name): #name - parameter
     print("Hello " + name)
@@ -28,7 +28,7 @@ def hello_function(name):
 hello_function("Rose") #Rose - arguments
 
 ## Input Functions 
-input() - allows us to ask users for some text input. Users can input data and our program will store it for them.
+**input()** - allows us to ask users for some text input. Users can input data and our program will store it for them.
 
 ### Syntax:
 input("anything you want to say") 
