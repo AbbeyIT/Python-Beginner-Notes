@@ -4,7 +4,7 @@ and modular chunks. That way, our code will be easier to organize.
 
 ## How do we create a functions? 
 ### Syntax:
-def function_name():
+`def function_name():`
 
 **def keywoard** - is used to define a function. This allows you to create your own function.
 #### Example:
@@ -17,21 +17,25 @@ hello_function() #call the function
 ## Adding parameters 
 **Parameter** - is a piece of information the function needs to do its job. The information is contained within ()
 If your function does not get the argument it expects, running your code will lead to an error.
+```
 def hello_function(name): #name - parameter
     print("Hello " + name)
 hello_function()
+```
 
 ## Arguments
 **Arguments** - is a piece of information that's passed from a function call to a function. This supplies the information the parameter requires.
+```
 def hello_function(name):
     print("Hello " + name) 
 hello_function("Rose") #Rose - arguments
+```
 
 ## Input Functions 
 **input()** - allows us to ask users for some text input. Users can input data and our program will store it for them.
 
 ### Syntax:
-input("anything you want to say") 
+`input("anything you want to say")`
 
 **"Prompt"** - is the string that will be printed on the screen whenever the function is called. 
 It also refers to the information that we'd want our users to enter
